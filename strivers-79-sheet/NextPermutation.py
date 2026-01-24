@@ -52,7 +52,7 @@ def next_permutation(n, arr):
   # find breakpoint index where dip is found in increasing curve
   # i.e., find the longest prefix possible
   ind = -1
-  for i in range(n-2, 0, -1):
+  for i in range(n-2, -1, -1): # n-1 to 0
     if arr[i] < arr[i+1]:
       ind = i # breakpoint found
       break
@@ -63,7 +63,7 @@ def next_permutation(n, arr):
     return arr
 
   # find smallest element from right side of breakpoint
-  for i in range(n-1, ind+2, -1): # range() is exclusive of stop point
+  for i in range(n-1, ind, -1): # n-1 to ind+1
     if arr[i] > arr[ind]:
       # swap smallest on right side and breakpoint element
       arr[i], arr[ind] = arr[ind], arr[i]
