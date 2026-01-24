@@ -38,4 +38,4 @@
 
 | **DATE** | **MODULE** | **PROBLEM** | **LEETCODE LINK** |
 |:--------:|:----------:|:-----------:|:-----------------:|
-| 24/01/25 | Arrays and Hashing | Next Permutation | https://leetcode.com/problems/next-permutation/submissions/1326408393/ |
+| 24/01/26 | Arrays and Hashing | Next Permutation | https://leetcode.com/problems/next-permutation/submissions/1895540942 |
