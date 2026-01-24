@@ -33,3 +33,9 @@
 | 19/07/24 | [MEDIUM](https://leetcode.com/problems/next-permutation/submissions/1326408393/) | 31 | **Next Permutation** | Given an array of integers **`nums`**, find the next permutation of **`nums`**. <br/> <br/> *A **permutation** of an array of integers is an arrangement of its members into a sequence or linear order. The **next permutation** of an array of integers is the next **lexicographically greater permutation** of its integer. More formally, if all the permutations of the array are sorted in one container according to their lexicographical order, then the next permutation of that array is the permutation that follows it in the sorted container. If such arrangement is not possible, the array must be rearranged as the lowest possible order (i.e., sorted in ascending order).* |
 | 23/07/24 | [MEDIUM](https://leetcode.com/problems/maximum-subarray/submissions/1330922919/) | 53 | **Maximum Subarray** | Given an integer array **`nums`**, find the **subarray** with the largest *sum*, and return its *sum*. |
 | 28/08/25 | [MEDIUM](https://leetcode.com/problems/3sum/description/) | 15 | **3 Sum** | Given an integer array nums, return all the triplets **`[nums[i], nums[j], nums[k]]`** such that **`i != j, i != k`**, and **`j != k`**, and **`nums[i] + nums[j] + nums[k] == 0`**. |
+
+### Striver's 79 Sheet
+
+| **DATE** | **MODULE** | **PROBLEM** | **LEETCODE LINK** |
+|:--------:|:----------:|:-----------:|:-----------------:|
+| 24/01/26 | Arrays and Hashing | Next Permutation | https://leetcode.com/problems/next-permutation/submissions/1895540942 |
