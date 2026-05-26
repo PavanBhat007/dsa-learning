@@ -39,3 +39,9 @@
 | **DATE** | **MODULE** | **PROBLEM** | **LEETCODE LINK** |
 |:--------:|:----------:|:-----------:|:-----------------:|
 | 24/01/26 | Arrays and Hashing | Next Permutation | https://leetcode.com/problems/next-permutation/submissions/1895540942 |
+
+### Interview Prep (3-month plan)
+
+| **DATE** | **DIFFICULTY** | **PROBLEM NO:** | **PROBLEM NAME** | **PROBLEM DESCRIPTION** |
+|:---------:|:--------------:|:----------------:|:---------------:|:---------:|
+| 26/05/26 | [EASY](https://leetcode.com/problems/count-the-number-of-special-characters-i/submissions/2013723698) | 3120 | **Count the Number of Special Characters I** | You are given a string `word`. A letter is called `special` if it appears **both in lowercase and uppercase** in word. Return the **number of special letters** in word. |
