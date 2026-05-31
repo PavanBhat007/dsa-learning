@@ -34,12 +34,6 @@
 | 23/07/24 | [MEDIUM](https://leetcode.com/problems/maximum-subarray/submissions/1330922919/) | 53 | **Maximum Subarray** | Given an integer array **`nums`**, find the **subarray** with the largest *sum*, and return its *sum*. |
 | 28/08/25 | [MEDIUM](https://leetcode.com/problems/3sum/description/) | 15 | **3 Sum** | Given an integer array nums, return all the triplets **`[nums[i], nums[j], nums[k]]`** such that **`i != j, i != k`**, and **`j != k`**, and **`nums[i] + nums[j] + nums[k] == 0`**. |
 
-### Striver's 79 Sheet
-
-| **DATE** | **MODULE** | **PROBLEM** | **LEETCODE LINK** |
-|:--------:|:----------:|:-----------:|:-----------------:|
-| 24/01/26 | Arrays and Hashing | Next Permutation | https://leetcode.com/problems/next-permutation/submissions/1895540942 |
-
 ### Interview Prep (3-month plan)
 
 | **DATE** | **DIFFICULTY** | **PROBLEM NO:** | **PROBLEM NAME** | **PROBLEM DESCRIPTION** |
