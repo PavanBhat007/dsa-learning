@@ -1,16 +1,80 @@
-# LeetCode-Journey
-🚀 A repository to document my **current LeetCode Learning Journey**.
+# LeetCode Journey
 
-### Interview Prep
+🚀 A repository documenting my LeetCode interview preparation journey.
 
-| **DATE** | **DIFFICULTY** | **PROBLEM NO:** | **PROBLEM NAME** | **PROBLEM DESCRIPTION** |
-|:---------:|:--------------:|:----------------:|:---------------:|:---------|
-| 26/05/26 | [EASY](https://leetcode.com/problems/count-the-number-of-special-characters-i/submissions/2013723698) | 3120 | **Count the Number of Special Characters I** | You are given a string `word`. A letter is called `special` if it appears **both in lowercase and uppercase** in word. Return the **number of special letters** in word. |
-| 27/05/26 | [EASY](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2015039026) | 1752 | **Check if Array Is Sorted and Rotated** | Given an array `nums`, return `true` if the **array was originally sorted in non-decreasing order, then rotated some number of positions** (including zero). Otherwise, return `false`. There may be duplicates in the original array. |¸
-| 28/05/26 | [EASY](https://leetcode.com/problems/separate-the-digits-in-an-array/submissions/2015972135) | 2553 | **Separate the Digits in an Array** | Given an array of positive integers `nums`, return an array `answer` that consists of the **digits of each integer in `nums` after separating them in the same order they appear** in `nums`. To separate the digits of an integer is to get all the digits it has in the same order. |
-| 29/05/26 | [EASY](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/2016449329) | 3300 | **Minimum Element After Replacement With Digit Sum** | You are given an integer array `nums`. You replace each element in `nums` with the **sum of its digits**. Return the **minimum element** in `nums` after all replacements. |
-| 30/05/26 | [EASY](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/2017327201) | 961 | **N-Repeated Element in Size 2N Array** | You are given an integer array `nums` with the following properties: (1) **`nums.length == 2 * n`**. (2) **nums contains n + 1 unique values, n of which occur exactly once in the array**. Exactly **one element of nums is repeated n times**. Return the element that is repeated n times. |
-| 31/05/26 | [MEDIUM](https://leetcode.com/problems/destroying-asteroids/submissions/2017963254) | 2126 | **Destroying Asteroids** | You are given an integer `mass`, which represents the original mass of a planet. You are further given an integer array `asteroids`, where `asteroids[i]` is the mass of the `ith` asteroid. You can arrange for the planet to **collide with the asteroids in any arbitrary order**. If the **mass of the planet is greater than or equal to the mass of the asteroid, the asteroid is destroyed** and the **planet gains the mass of the asteroid**. **Otherwise, the planet is destroyed**. Return `true` if all asteroids can be destroyed. Otherwise, return `false`. |
-| 1/06/26 | [EASY](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/2019272839) | 2144 | **Minimum Cost of Buying Candies With Discount** | A shop is selling candies at a discount. **For every two candies sold, the shop gives a third candy for free**. The customer can choose any candy to take away for free as long as the **cost of the chosen candy is less than or equal to the minimum cost of the two candies bought**. _For example, if there are 4 candies with costs 1, 2, 3, and 4, and the customer buys candies with costs 2 and 3, they can take the candy with cost 1 for free, but not the candy with cost 4_. Given a `0-indexed` integer array cost, where `cost[i]` denotes the cost of the `ith` candy, return the **minimum cost of buying all the candies**. |
-| 2/06/26 | [EASY](https://leetcode.com/problems/single-number/submissions/2020713219) | 136 | **Single Number** | Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one. You must implement a solution with a **linear runtime complexity and use only constant extra space**. |
-| 3/06/26 | [MEDIUM](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/submissions/2021789254) | 3751 | **Total Waviness of Numbers in Range I** | You are given two integers `num1` and `num2` representing an inclusive range `[num1, num2]`. The **waviness of a number is defined as the total count of its peaks and valleys**: <br/>-  A digit is a **peak if it is strictly greater than both of its immediate neighbors**. <br/>-  A digit is a **valley if it is strictly less than both of its immediate neighbors**. <br/>-  The **first and last digits of a number cannot be peaks or valleys**. <br/>-  Any number with **fewer than 3 digits has a waviness of 0**. <br/>Return the **total sum of waviness for all numbers in the range `[num1, num2]`**. |
+## Stats
+
+* Total Problems Solved: 36
+* 🟢 Easy: 22
+* 🟡 Medium: 13
+* 🔴 Hard: 1
+
+## Progress
+
+🟡 **`03/06/26`** - **3751** - [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/submissions/2021789254)
+
+🟢 **`02/06/26`** - **136** - [Single Number](https://leetcode.com/problems/single-number/submissions/2020713219)
+
+🟢 **`01/06/26`** - **2144** - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/2019272839)
+
+🟡 **`31/05/26`** - **2126** - [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/submissions/2017963254)
+
+🟢 **`30/05/26`** - **961** - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/2017327201)
+
+🟢 **`29/05/26`** - **3300** - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/2016449329)
+
+🟢 **`28/05/26`** - **2553** - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/submissions/2015972135)
+
+🟢 **`27/05/26`** - **1752** - [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2015039026)
+
+🟢 **`26/05/26`** - **3120** - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/submissions/2013723698)
+
+🟡 **`28/08/25`** - **15** - [3Sum](https://leetcode.com/problems/3sum/description/)
+
+🟡 **`23/07/24`** - **53** - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1330922919/)
+
+🟡 **`19/07/24`** - **31** - [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/1326408393/)
+
+🟢 **`18/07/24`** - **118** - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/1325437166/)
+
+🟡 **`17/07/24`** - **73** - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1324408983/)
+
+🟢 **`29/01/24`** - **83** - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1160139873)
+
+🟢 **`28/01/24`** - **67** - [Add Binary](https://leetcode.com/problems/add-binary/submissions/1159191246)
+
+🟢 **`28/01/24`** - **66** - [Plus One](https://leetcode.com/problems/plus-one/submissions/1159171361)
+
+🟡 **`27/01/24`** - **451** - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/submissions/1158275414)
+
+🟢 **`27/01/24`** - **2278** - [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/submissions/1158264736)
+
+🟢 **`27/01/24`** - **58** - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1158260383)
+
+🟢 **`26/01/24`** - **35** - [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1157343713)
+
+🟢 **`26/01/24`** - 28 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1157280062)
+
+🟢 **`25/01/24`** - **27** - [Remove Element](https://leetcode.com/problems/remove-element/submissions/1156301123)
+
+🟢 **`25/01/24`** - **26** - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1156275936)
+
+🟢 **`21/01/24`** - **20** - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1152377433)
+
+🟢 **`19/01/24`** - **13** - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/1150418959)
+
+🟡 **`19/01/24`** - **12** - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/1150471549)
+
+🟡 **`18/01/24`** - **7** - [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/1149979914)
+
+🔴 **`17/01/24`** - **41** - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/1148747730)
+
+🟡 **`17/01/24`** - **43** - [Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/1148678810)
+
+🟢 **`17/01/24`** - **9** - [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/1148563771)
+
+🟡 **`16/01/24`** - **2** - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1148014852)
+
+🟡 **`15/01/24`** - **167** - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1146949973)
+
+🟢 **`15/01/24`** - **1** - [Two Sum](https://leetcode.com/problems/two-sum/submissions/1146846867)
