@@ -2,12 +2,10 @@
 
 🚀 A repository documenting my LeetCode interview preparation journey.
 
-## Stats
-
-* Total Problems Solved: 36
-* 🟢 Easy: 22
-* 🟡 Medium: 13
-* 🔴 Hard: 1
+![Total](https://img.shields.io/badge/Total-36-blue)
+![Easy](https://img.shields.io/badge/Easy-22-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-13-yellow)
+![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Progress
 
