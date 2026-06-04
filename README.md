@@ -2,12 +2,14 @@
 
 🚀 A repository documenting my LeetCode interview preparation journey.
 
-![Total](https://img.shields.io/badge/Total-36-blue)
-![Easy](https://img.shields.io/badge/Easy-22-brightgreen)
+![Total](https://img.shields.io/badge/Total-37-blue)
+![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-13-yellow)
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Progress
+
+🟢 **`04/06/26`** - **168** - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/2022597024)
 
 🟡 **`03/06/26`** - **3751** - [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/submissions/2021789254)
 
