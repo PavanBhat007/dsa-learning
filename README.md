@@ -2,12 +2,14 @@
 
 🚀 A repository documenting my LeetCode interview preparation journey.
 
-![Total](https://img.shields.io/badge/Total-37-blue)
+![Total](https://img.shields.io/badge/Total-38-blue)
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-13-yellow)
-![Hard](https://img.shields.io/badge/Hard-1-red)
+![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
+
+🔴 **`05/06/26`** - **154** - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2023531516)
 
 🟢 **`04/06/26`** - **168** - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/2022597024)
 
