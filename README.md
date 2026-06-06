@@ -2,12 +2,14 @@
 
 🚀 A repository documenting my LeetCode interview preparation journey.
 
-![Total](https://img.shields.io/badge/Total-38-blue)
-![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
+![Total](https://img.shields.io/badge/Total-39-blue)
+![Easy](https://img.shields.io/badge/Easy-24-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-13-yellow)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
+
+🔴 **`06/06/26`** - **2574** - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2023812607)
 
 🔴 **`05/06/26`** - **154** - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2023531516)
 
