@@ -11,7 +11,7 @@
 
 🟢 **`09/06/26`** - **169** - [Majority Element](https://leetcode.com/problems/majority-element/submissions/2027620394)
 
-🔴 **`06/06/26`** - **2574** - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2023812607)
+🟢 **`06/06/26`** - **2574** - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2023812607)
 
 🔴 **`05/06/26`** - **154** - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2023531516)
 
