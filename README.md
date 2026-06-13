@@ -9,6 +9,8 @@
 
 ## Progress
 
+🟢 **`10/06/26`** - **3940** - [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/submissions/2028814843)
+
 🟢 **`09/06/26`** - **169** - [Majority Element](https://leetcode.com/problems/majority-element/submissions/2027620394)
 
 🟢 **`06/06/26`** - **2574** - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2023812607)
